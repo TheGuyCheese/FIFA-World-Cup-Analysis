@@ -65,7 +65,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or inquiries, please contact [yourname@domain.com](mailto:csaditya44@gmail.com).
+For any questions or inquiries, please contact [csaditya44@gmail.com](mailto:csaditya44@gmail.com).
 
 ---
 
